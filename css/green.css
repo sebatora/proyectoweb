@@ -1,0 +1,29 @@
+body{
+    background: url("../img/hojas.jpeg");
+    background-attachment: fixed;
+}
+
+#logo{
+    background: #314d04;
+}
+
+#menu ul li:hover{
+    background: #314d04;
+}
+
+.button-more{
+    background: #314d04;
+}
+
+form input:hover{
+    border: 1px solid #314d04;
+}
+
+.ui-accordion-header{
+    background-color: #314d04;
+    color: white;
+}
+
+#watch{
+    border: 10px solid #314d04;
+}

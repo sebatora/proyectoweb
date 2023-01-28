@@ -1,0 +1,29 @@
+body{
+    background: url("../img/hojasred.jpeg");
+    background-attachment: fixed;
+}
+
+#logo{
+    background: #D20B1E;
+}
+
+#menu ul li:hover{
+    background: #D20B1E;
+}
+
+.button-more{
+    background: #D20B1E;
+}
+
+form input:hover{
+    border: 1px solid #D20B1E;
+}
+
+.ui-accordion-header{
+    background-color: #D20B1E;
+    color: white;
+}
+
+#watch{
+    border: 10px solid #D20B1E;
+}

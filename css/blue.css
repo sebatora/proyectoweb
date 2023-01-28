@@ -1,0 +1,30 @@
+body{
+    background: url("../img/cielo.jpeg");
+    background-attachment: fixed;
+    width: 100%;
+}
+
+#logo{
+    background: #1289E3;
+}
+
+#menu ul li:hover{
+    background: #1289E3;
+}
+
+.button-more{
+    background: #1289E3;
+}
+
+form input:hover{
+    border: 1px solid #1289E3;
+}
+
+.ui-accordion-header{
+    background-color: #1289E3;
+    color: white;
+}
+
+#watch{
+    border: 10px solid #1289E3;
+}
